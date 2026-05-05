@@ -1,0 +1,5 @@
+{
+  "email_to": "your-channel@domain.webhook.office.com",
+  "email_from": "openclaw@yourdomain.nl",
+  "email_subject": "AI Intelligence Briefing — {date}"
+}
